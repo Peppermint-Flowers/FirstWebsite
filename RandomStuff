@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+     
+      <style>
+        #HeaderID { color:#8F00FF; text-align: center; font-family: Georgia; font-size: 40px;}
+      </style>
+
+      <style>
+        .BackgroundColor {background-color:#00FF90}
+        .BackgroundColor2 {background-color: #00EFFF;}
+        .BorderColor1 {border: solid 2px #FF00EF}
+        .FontInfo1 {font-size: 25px; font-family: 'Georgia'; text-align: center;}
+        .FontInfo2 {font-size: 20px; font-family: 'Georgia'; text-align: center;}
+        .FontInfo3 {font-size: 20px; font-family: 'Georgia'; text-align: left;}
+        .Margin {margin-left: 400px;}
+        ul {border: #FF00EF dashed 2px; display: inline-block; padding-right: 20px;}
+        img { display: block; margin-left: auto; margin-right: auto; border:#1000FF solid 2px; padding: 10px}
+      </style>
+
+
+      <div id='HeaderID' class= 'BackgroundColor2'>
+        Welcome To This Random Website!
+      </div>
+    </head>
+
+  <hr />
+
+    <div class= 'BackgroundColor'>
+        <img src="https://i.imgflip.com/40iot4.jpg" title="made at imgflip.com">
+    </div>
+
+
+  <div class= 'BackgroundColor2'>
+
+    <div class='BorderColor1 FontInfo1'>
+    
+      Out in the great big expanse of the <i>World Wide Web</i> there lies websites like mine only accessible to few.
+      If I somehow publish this as an actual website, that'll actually be surprising.
+      Anyways, enjoy the memes and laughs here. </h3>
+     </div>
+
+<br>
+
+    <div class='FontInfo2'>
+      If you're ever bored, which you most likely are right now, you should come check out these websites!
+    </div>
+
+    <div class= 'FontInfo3'>
+      <ul>
+        <li>
+          <a href='https://www.boredbutton.com/'>this website</a>
+        </li>
+        <li>
+          <a href= 'https://www.youtube.com/watch?v=6-HUgzYPm9g'> how about this</a>
+        </li>
+        <li>
+          <a href= 'https://www.youtube.com/watch?v=6-HUgzYPm9g'>or this</a>
+        </li>
+        <li>
+          or switch up your computer life with <a href='https://chrome.google.com/webstore/detail/custom-cursor-for-chrome/ogdlpmhglpejoiomcodnpjnfgcpmgale?hl=en-US'>this</a>
+        </li>
+      </ul>
+    </div>
+
+    <div class= 'FontInfo2'>
+      Or perhaps you want to learn some weird yet interesting facts I pulled off the internet!
+    </div>
+
+    <div class= 'FontInfo3'>
+      <ul>
+        <li>
+          The mantis shrimp has 12 color receptors (we have only 3) which allows them to see a multitude of colors we can't.
+        </li>
+        <li>
+          There is such a thing as a highway in space; NASA calls it the Interplanetary Superhighway and uses it to send their probes on paths with the least gravitational resistance.
+        </li>
+        <li>
+          Blue whales can create sound up to 188 decibles, which is the loudest of any animal on Earth
+        </li>
+        <li>
+          Challenger Deep is about 11, 035 meters below sea level (more than 2,000 meters longer than Mt. Everest)
+        </li>
+        <li>
+          43% of the world's olive oil comes from Spain (this isn't super interesting but I used to live there so it shall be on the list)
+        </li>
+      </ul>
+    </div>
+
+
+
+    <p>
+      <b>Actual footage of me whenever my code doesn't work:</b>
+      &#8595;
+      <img src="https://media1.tenor.com/images/d8ff9629ade20e3fe0d95b919bdc96f4/tenor.gif?itemid=11140147">
+    </p>
+
+  </div>
+
+</html>
